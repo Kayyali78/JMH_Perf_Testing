@@ -1,0 +1,338 @@
+AST 100 - Astronomy
+AST 310 - Topics in Modern Astronomy
+AST 311 - Solar System Astronomy
+AST 350 - Observational Astronomy
+AST 360 - Human Futures
+AST 390 - Special Topics in Astronomy
+AST 399 - Independent Study
+AST 401 - Advanced Astronomy
+AST 405 - Introductory Astrophysics
+COG 166 - Introduction to Cognitive Science
+COG 212 - Programming and Problem Solving
+COG 241 - Programming and Knowledge Representation
+COG 266 - Brains, Minds and Consciousness
+COG 316 - Cognitive Musicology
+COG 356 - Generative Processes and Abstract Machines
+COG 366 - Computational Models of Cognitive Processes
+COG 376 - Computer Models of Language Representation and Processing
+COG 399 - Independent Study
+COG 411 - Introduction into Neural Networks
+COG 435 - Cognitive Systems
+COG 444 - Semiotics and the Study of Meaning
+COG 468 - Cognitive Science Capstone Seminar
+COG 490 - Selected Topics in Cognitive Science
+CSC 101 - Tools for Computing
+CSC 102 - Business Information Systems and Computing Tools
+CSC 103 - Computing Tools & Information Literacy for Educators
+CSC 120 - Introduction to Programming and Programming Languages
+CSC 212 - Principles of Programming
+CSC 221 - Foundations of Computer Science
+CSC 222 - Computer Organization and Programming
+CSC 241 - Abstract Data Types and Programming Methodology
+CSC 320 - Numerical Methods
+CSC 322 - Systems Programming
+CSC 332 - Cryptology
+CSC 333 - Privacy, Security, and Cryptology
+CSC 344 - Programming Languages
+CSC 350 - Computational Linguistics
+CSC 365 - Data Structures and Algorithms
+CSC 366 - Computational Models of Cognitive Processes
+CSC 375 - Parallel Computing
+CSC 380 - Software Engineering
+CSC 385 - Software Quality
+CSC 390 - Selected Topics in Computer Science
+CSC 416 - Artificial Intelligence Programming Languages
+CSC 420 - Graphical User Interfaces
+CSC 430 - Topics in Computer Games
+CSC 435 - Web Services
+CSC 436 - Software and Safety Requirements Engineering
+CSC 444 - Compiler Construction
+CSC 445 - Computer Networks
+CSC 454 - System Simulation and Virtual Worlds
+CSC 455 - Computer Game Programming
+CSC 459 - Data Base Management Systems
+CSC 466 - Artificial Intelligence and Heuristic Programming
+CSC 470 - Computer Graphics
+CSC 472 - Computational Engineering
+CSC 480 - Software Design
+CSC 482 - Software Deployment
+CSC 490 - Selected Topics
+CSC 495 - Software Engineering Project Seminar I
+CSC 496 - Software Engineering Project Seminar II
+ECO 101 - Principles of Microeconomics
+ECO 120 - Survey of Economic Issues
+ECO 200 - Principles of Macroeconomics
+ECO 300 - Intermediate Macro Theory
+ECO 301 - Intermediate Micro Theory
+ECO 302 - Managerial Economics
+ECO 305 - Topics in Economics
+ECO 311 - Mathematical Economics
+ECO 312 - Introduction to Econometrics
+ECO 320 - Comparative Economic Systems
+ECO 322 - History of Economic Doctrines
+ECO 326 - American Economic History Before 1900
+ECO 327 - Issues in American Economic History Since 1900
+ECO 330 - Economic Development
+ECO 340 - Money and Banking
+ECO 341 - The Political Economy of Financial Crises
+ECO 343 - International Finance
+ECO 344 - International Trade
+ECO 345 - International Monetary and Financial Management
+ECO 349 - Economics of Education
+ECO 350 - Introduction to Labor Economics
+ECO 355 - Labor Law
+ECO 370 - Public Finance
+ECO 378 - Health Economics
+ECO 380 - Industrial Organization
+ECO 390 - Environmental Economics
+ECO 396 - TA in Economics
+ECO 399 - Independent Study
+ECO 405 - Seminar in Economic Theory and Policy
+ECO 409 - Mathematical Economics Problem Seminar
+ECO 498 - Internship in Economics
+FIN 325 - Corporate Finance
+FIN 340 - Financial Statement Analysis
+FIN 354 - Investments
+FIN 391 - Real Estate Finance
+FIN 425 - Topics in Finance
+FIN 426 - Multinational Financial Management
+FIN 427 - Management of Financial Institutions
+FIN 428 - Applied Financial Management
+FIN 430 - Portfolio Management
+FIN 442 - Commercial Credit Analysis
+FIN 447 - Commercial Banking Seminar
+FIN 454 - Financial Options and Futures
+FRE 101 - Elementary French
+FRE 102 - Continuing Elementary French
+FRE 201 - Intermediate French
+FRE 202 - Continuing Intermediate French
+FRE 301 - Advanced French A
+FRE 302 - Advanced French B
+FRE 303 - Advanced French: Culture, Communications, Commerce
+FRE 310 - Business French
+FRE 315 - French Language and Culture through Film
+FRE 320 - French Phonetics
+FRE 321 - La Francophonie
+FRE 340 - French Literature in Translation
+FRE 350 - Survey of French Literature
+FRE 351 - Survey of French Literature
+FRE 355 - French Culture and Civilization I
+FRE 356 - French Culture and Civilization II
+FRE 379 - The Francophone World: Literature, Theory & Politics of Diversity
+FRE 385 - French Cinema and Culture
+FRE 395 - Seminar
+FRE 396 - French Teaching Assistantship
+FRE 403 - Seminar: Study of Text
+FRE 417 - French Novel of 19th Century
+FRE 480 - Senior Capstone Seminar
+GCH 436 - Solid Earth Geochemistry
+GCH 437 - Earth Surface Geochemistry
+GCH 438 - Isotope Geochemistry
+GCH 494 - Capstone Research in Geochemistry
+GEO 100 - Physical Geology
+GEO 105 - Dinosaurs!
+GEO 115 - Environmental Sustainability
+GEO 200 - Historical Geology
+GEO 301 - Environmental Geology for Majors
+GEO 303 - Pollution Disasters
+GEO 304 - Fire and Ice
+GEO 305 - Earth Resources
+GEO 306 - Science, Pseudoscience and Fraud
+GEO 308 - Geology of New York State
+GEO 310 - Mineralogy
+GEO 315 - Earth’s Fury
+GEO 325 - Geology of the Bahamas
+GEO 326 - Geographic Information Systems
+GEO 330 - Structural Geology
+GEO 340 - Geophysics
+GEO 350 - Introduction to Remote Sensing
+GEO 390 - Special Topics in Geology
+GEO 396 - Geology Teaching Assistant
+GEO 399 - Independent Study
+GEO 416 - Igneous and Metamorphic Petrology
+GEO 420 - Sedimentation and Stratigraphy
+GEO 430 - Hydrogeology
+GEO 435 - Volcanology
+GEO 440 - Invertebrate Paleontology
+GEO 442 - Taphonomy
+GEO 450 - Geomorphology
+GEO 460 - Engineering Geology
+GEO 470 - Exploration Geology
+GEO 475 - Geochemistry
+GEO 480 - Tectonics
+GEO 481 - Field Geology
+GEO 486 - Field Techniques
+GEO 495 - Geoscience Research
+GEO 499 - Independent Study
+GER 101 - Elementary German
+GER 102 - Continuing Elementary German
+GER 140 - German Castles, Customs, and Culture
+GER 141 - Brothers Grimm Fairy Tales
+GER 200 - German Conversation Through Film
+GER 201 - Intermediate German
+GER 202 - Continuing Intermediate German
+GER 204 - German Fairy Tales
+GER 300 - Landeskunde
+GER 301 - Advanced German A
+GER 302 - Advanced German B
+GER 304 - Deutsche Märchen (translation=German Fairy Tales)
+GER 310 - Business German
+GER 350 - Survey of German Literature and Culture A
+GER 351 - Survey of German Literature and Culture B
+GER 392 - Berlin in the 20th Century
+GER 395 - Topics Seminar
+GER 396 - German Assistantship
+GER 399 - Independent Study
+GER 441 - German Translation: Methods and Practice
+GER 470 - Austrian Literature
+GER 495 - Seminar
+GER 498 - German Internship
+HIS 100 - The West and the World to 1500
+HIS 101 - The West and the World, 1500-1900
+HIS 102 - World History in the Twentieth Century
+HIS 202 - History of the United States to 1865
+HIS 203 - History of the United States Since 1865
+HIS 204 - African American History
+HIS 206 - Africa to 1800
+HIS 207 - Africa since 1800
+HIS 208 - Modern Asia
+HIS 209 - Traditional Asia and Its Legacy
+HIS 212 - Women in History
+HIS 215 - Introduction to Latin American Civilizations
+HIS 216 - Modern Latin America
+HIS 230 - The Western Heritage I
+HIS 231 - The Western Heritage II
+HIS 244 - Introduction to Global Sport History
+HIS 248 - Women in American History to 1865
+HIS 249 - Women in American History, 1865 to Present
+HIS 298 - Historical Methods
+HIS 300 - European Intellectual History in the 19th Century
+HIS 301 - European Intellectual History in the 20th Century
+HIS 307 - World War I
+HIS 308 - Jews, Christians, and Muslims to 1500
+HIS 311 - Europe in an Age of Revolution, 1789 - 1848
+HIS 312 - Early Middle Ages
+HIS 313 - High and Late Middle Ages
+HIS 315 - Ancient Rome
+HIS 317 - Renaissance Europe
+HIS 319 - History of England, 1914 - 1950
+HIS 323 - Europe Between the World Wars, 1917-1939
+HIS 324 - Europe Since 1945
+HIS 326 - World War II
+HIS 329 - The Cold War
+HIS 330 - History of Russia to 1917
+HIS 331 - Twentieth Century Russia
+HIS 333 - History of Sexuality in the U.S. and Ireland
+HIS 335 - History & Civilizations in South Asia
+HIS 336 - South Asian Sacred Spaces
+HIS 337 - Social and Cultural History of Sport
+HIS 338 - History of Yoga
+HIS 341 - America’s Vietnam War
+HIS 343 - Colonial America
+HIS 344 - American Immigration and Ethnic History
+HIS 345 - The Early Republic: US 1789-1848
+HIS 348 - Women in Twentieth Century United States
+HIS 350 - Slavery In America to 1865
+HIS 352 - The Gilded Ages and Progressive Era
+HIS 353 - The Black Power Movement
+HIS 354 - Native American History
+HIS 356 - Civil War and Reconstruction
+HIS 358 - American Urban History
+HIS 363 - The American Revolution
+HIS 367 - Global Disease
+HIS 369 - The United States Since 1945
+HIS 370 - Topics in History
+HIS 372 - History of Blaxploitation Cinema
+HIS 373 - History of Mexico
+HIS 379 - History in Video Games
+HIS 381 - History of Human Trafficking
+HIS 383 - Modern China
+HIS 384 - Contemporary Chinese History Through Film: 1900 to Present
+HIS 385 - Modern Japan
+HIS 389 - History of the Middle East
+HIS 390 - Harems, Bathhouses, and Brothels: Society, Gender, and Sexuality in the Early Modern Islamic World
+HIS 391 - Modernization and Development in Africa
+HIS 392 - History of Islam in Africa
+HIS 393 - Women and War in the Twentieth Century
+HIS 394 - History of the Ottoman Empire
+HIS 451 - Topics in American History
+HIS 453 - Research Seminar in American History
+HIS 461 - Topics in European History
+HIS 463 - Research Seminar in European History
+HIS 470 - Reading Seminar in History
+HIS 471 - Topics in World and Transnational History
+HIS 473 - Research Seminar in World and Transnational History
+HIS 491 - History Honors II (Research)
+HIS 496 - Peer Educator in College History
+HIS 498 - Internship in History
+MAT 102 - Foundations of Mathematics in the Real World
+MAT 103 - Symmetries
+MAT 104 - College Algebra
+MAT 106 - Number Systems and Operations
+MAT 120 - Precalculus
+MAT 158 - Introduction to Statistics A
+MAT 159 - Statistics and Society
+MAT 179 - Measuring Life
+MAT 206 - Introduction to Geometry and Probability
+MAT 208 - Mathematical Applications for Business and Management
+MAT 210 - Calculus I
+MAT 215 - Introduction to Discrete Mathematics
+MAT 220 - Calculus II
+MAT 230 - Matrix Algebra
+MAT 240 - Multivariable Calculus
+MAT 249 - Engineering Mathematics
+MAT 258 - Introduction to Statistics B
+MAT 300 - History of Mathematics
+MAT 304 - Mathematical Topics in the Secondary Curriculum
+MAT 306 - Techniques of Problem Solving
+MAT 307 - Fundamentals of Geometry
+MAT 310 - Introduction to Linear and Integer Programming
+MAT 318 - Statistics in the Sciences
+MAT 320 - Numerical Analysis I
+MAT 330 - Introduction to Algebra
+MAT 332 - Cryptology
+MAT 335 - College Geometry
+MAT 339 - Discrete Mathematics and Statistics
+MAT 347 - Analysis A
+MAT 348 - Ordinary Differential Equations
+MAT 351 - Introduction to Forecasting
+MAT 352 - Statistical Quality and Process Control
+MAT 353 - Mathematical Modeling
+MAT 354 - Mathematical Statistics A
+MAT 357 - Applied Regression Analysis
+MAT 358 - Design and Analysis of Experiments
+MAT 373 - Number Theory
+MAT 378 - Data Mining and Predictive Analytics
+MAT 379 - Environmental Statistics
+MAT 390 - Selected Topics
+MAT 399 - Independent Study
+MAT 409 - Mathematical Economics Problem Seminar
+MAT 430 - Algebra
+MAT 442 - Complex Analysis
+MAT 447 - Analysis B
+MAT 448 - Partial Differential Equations and Orthogonal Functions
+MAT 454 - Mathematical Statistics B
+OCE 100 - Oceanography
+PHY 101 - Introductory Physics
+PHY 111 - College Physics I
+PHY 112 - General University Physics I
+PHY 195 - Physics Seminar
+PHY 204 - Physics of Sound and Music
+PHY 205 - Energy and the Environment: A Global View
+PHY 206 - Physics for Elementary Education Majors
+PHY 212 - College Physics II
+PHY 213 - General University Physics II
+PHY 303 - Beginnings of Science: World View
+PHY 313 - General University Physics III
+PHY 314 - Modern Physics
+PHY 321 - Electronics
+PHY 322 - Optics
+PHY 340 - Thermodynamics and its Applications
+PHY 362 - Electrical Circuits and Machines
+PHY 363 - Materials Science
+PHY 397 - Teaching Physics
+PHY 423 - Quantum Physics II
+PHY 435 - Computational Physics
+PHY 436 - Advanced Mechanics
+PHY 437 - Advanced Quantum Mechanics
+PHY 439 - Advanced Electromagnetic Theory
